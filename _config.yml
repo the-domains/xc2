@@ -1,0 +1,84 @@
+name: XENNEN Consulting
+analytics: {}
+github: true
+author: {}
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a3fc7bb-9705-45c8-9199-053be68bd959.png">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a3fc7bb-9705-45c8-9199-053be68bd959.png
+    metadata:
+      author: []
+      '@context': 'http://schema.org'
+      keywords: []
+      '@type': MediaObject
+      publisher:
+        favicon: null
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+      related: []
+      app_links: []
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/694d52ca-46f3-47ef-b156-3f23037030e8.png">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/694d52ca-46f3-47ef-b156-3f23037030e8.png
+    metadata:
+      author: []
+      '@context': 'http://schema.org'
+      keywords: []
+      '@type': MediaObject
+      publisher:
+        favicon: null
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+      related: []
+      app_links: []
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+layout_spectrum: 0.3180594317618721
+color:
+  lightness: 0.2474768631400928
+  brandColors:
+    - '#73603D'
+    - '#BF8A49'
+    - '#F2CA80'
+    - '#5E5A59'
+    - '#0D0D0D'
+  saturation: 0.5555632118532194
+  brandStrength: 0.6020066111551432
+  rhythmicContrast: 0.7488988328998042
+content_rating:
+  adult: false
+typography_spectrum: 0.4157805159756231
+opengraph: {}
+title: XC Horses
+coverPrefs:
+  filter: false
