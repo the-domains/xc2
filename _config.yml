@@ -82,3 +82,7 @@ opengraph: {}
 title: XC Horses
 coverPrefs:
   filter: false
+purpose:
+  - type: contact
+    url: 'tel:+46708825525'
+    label: Call +46708825525
