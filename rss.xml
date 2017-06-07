@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[XC Horses]]></title>
+        <description><![CDATA[XC Horses]]></description>
+        <link>https://thegrid.ai/xc2/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 03 Jun 2017 16:31:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/xc2/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/dfb33ea6d12a3500bb3edf06474a8259/croprotate.jpg?cropheight=3264&cropwidth=2448&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F15e8345a-e449-4d04-8931-28a8fa73f6db.jpg&x=0&y=0">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/105737fc-d2cb-4a11-86d5-5f31cdfca652.jpg">]]></description>
+            <link>https://thegrid.ai/xc2/239b4987-1fb9-4def-9cab-4ab7b3b243fc/index.html</link>
+            <guid isPermaLink="false">239b4987-1fb9-4def-9cab-4ab7b3b243fc</guid>
+            <pubDate>Sat, 03 Jun 2017 16:30:42 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
